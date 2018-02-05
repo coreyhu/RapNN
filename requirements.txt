@@ -1,0 +1,5 @@
+pronouncing>=0.1.2
+markovify>=0.5.4
+numpy>=1.12.1
+tensorflow>=1.4
+pandas >=0.20
