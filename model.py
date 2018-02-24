@@ -368,5 +368,5 @@ def main():
             f.write(bar)
             f.write("\n")
 
-
-main()
+if __name__ == "__main__":
+    main()
